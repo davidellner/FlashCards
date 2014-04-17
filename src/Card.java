@@ -3,6 +3,7 @@
  * @author Dan Dave Sean
  *
  */
+ 
 public class Card {
 	
 	//Class variables
